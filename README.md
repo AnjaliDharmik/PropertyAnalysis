@@ -1,1 +1,2 @@
 # PropertyAnalysis
+Conducted an analysis to advise the clients to set competitive price for their first listing on Airbnb property in London with 76606 property records with 19 features. Worked independently for 3 weeks to Business and Data Understanding, Preprocessing, Analysis, Model Evaluation and Deployment on AZURE cloud server. This project completed using SQL, Python, PowerBI, and regression models. Where, Gradient Boosting Regressor Model is the best model based on performance comparisons. And used Jupyter Notebook, JIRA, GIT, AZURE cloud server.
